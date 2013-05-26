@@ -1,0 +1,10 @@
+# Generic Files
+
+*~
+*.tmp
+*.backup
+*.ini
+
+# Java Files
+*.class
+
